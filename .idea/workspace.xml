@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8ca8c2d-a0eb-4c0e-a365-800a1c231096" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>call</find>
+      <find>JavaMethodVisitor</find>
+      <find>ASTn</find>
+      <find>getElementType</find>
+      <find>equal</find>
+      <find>try</find>
+      <find>catch</find>
+      <find>project</find>
+      <find>Conversion phase finished.</find>
+      <find>CU2PT</find>
+      <find>type</find>
+      <find>element</find>
+      <find>File</find>
+      <find>Facade</find>
+      <find>psiJavaFile</find>
+      <find>JavaFileVisitor</find>
+      <find>regFileNumber</find>
+      <find>New</find>
+      <find>JavaMethodCallVisitor</find>
+      <find>methodCallVisitor</find>
+      <find>new</find>
+      <find>initial</find>
+      <find>number of import</find>
+      <find>number of</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\University\Ferdowsi\Term 4\Payan Nameh\Project\CU2PT-Plugin\src\ir\ac\um\CU2PT</dir>
+      <dir>D:\University\Ferdowsi\Term 4\Payan Nameh\Project\CU2PT-Plugin\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/CodeClone3.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaTryCatchVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/Constants.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaAssertArgumentTypeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaTypeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaCodeCloneVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaCodeCloneDetection.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/JavaConverter.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaSpecificStatementVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaArrayInitializerExpressionVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaArrayInitializerVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNewVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNewExpressionVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNamingMethods.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaExpressionsVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaClassVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaFileVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodCallVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodStatementVisitor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="-30" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1Umxth7k26c9StxpbnQ4alnvjyL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CU2PT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CU2PT-Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CU2PT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CU2PT-Plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CU2PT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CU2PT-Plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CU2PT" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604753318977" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\University\Ferdowsi\Term 4\Payan Nameh\Project\CU2PT-Plugin\src\ir\ac\um\CU2PT" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\resources" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\resources\images" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\src\ir\ac\um\javardfizer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ir.ac.um.javardfizer.visitor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ir.ac.um.javardfizer.visitor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\src\ir\ac\um\javardfizer" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\resources\META-INF" />
+      <recent name="D:\Projects\Plugin for Android Studio\MyPluginForAndroidStudio\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Plugin.Plugin">
+    <configuration name="CodeBasedSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.ac.um.CU2PT.sample.CodeBasedSample" />
+      <module name="CU2PT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.um.CU2PT.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeBasedSample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.ac.um.CU2PT.sample.CodeBasedSample" />
+      <module name="CU2PT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.um.CU2PT.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeBasedSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.ac.um.CU2PT.sample.CodeBasedSample" />
+      <module name="CU2PT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.um.CU2PT.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFileVisitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.ac.um.CU2PT.visitor.JavaFileVisitor" />
+      <module name="CU2PT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.ac.um.CU2PT.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="CU2PT" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="CU2PT" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeBasedSample (1)" />
+      <item itemvalue="Application.CodeBasedSample (2)" />
+      <item itemvalue="Application.CodeBasedSample" />
+      <item itemvalue="Application.JavaFileVisitor" />
+      <item itemvalue="Plugin.Plugin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeBasedSample" />
+        <item itemvalue="Application.CodeBasedSample (2)" />
+        <item itemvalue="Application.CodeBasedSample (1)" />
+        <item itemvalue="Application.JavaFileVisitor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ca8c2d-a0eb-4c0e-a365-800a1c231096" name="Default" comment="" />
+      <created>1546772696400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546772696400</updated>
+      <workItem from="1546772698321" duration="8667000" />
+      <workItem from="1546859304578" duration="597000" />
+      <workItem from="1547014862567" duration="1471000" />
+      <workItem from="1547016419232" duration="12303000" />
+      <workItem from="1547033400800" duration="6080000" />
+      <workItem from="1547099246302" duration="18884000" />
+      <workItem from="1547279676681" duration="25318000" />
+      <workItem from="1547378394246" duration="7173000" />
+      <workItem from="1547446989578" duration="11019000" />
+      <workItem from="1547460518663" duration="15000" />
+      <workItem from="1547538277816" duration="11321000" />
+      <workItem from="1547556068042" duration="43000" />
+      <workItem from="1547900023251" duration="93000" />
+      <workItem from="1548223999987" duration="2162000" />
+      <workItem from="1548227078442" duration="247000" />
+      <workItem from="1548227357867" duration="7000" />
+      <workItem from="1548227397380" duration="849000" />
+      <workItem from="1548229489493" duration="2062000" />
+      <workItem from="1548241416790" duration="117000" />
+      <workItem from="1548310589525" duration="250000" />
+      <workItem from="1548311236379" duration="1043000" />
+      <workItem from="1548312755491" duration="388000" />
+      <workItem from="1548320805683" duration="510000" />
+      <workItem from="1548321828369" duration="487000" />
+      <workItem from="1548322876668" duration="692000" />
+      <workItem from="1548323701398" duration="2891000" />
+      <workItem from="1548326837818" duration="1915000" />
+      <workItem from="1548494546025" duration="7837000" />
+      <workItem from="1548505969613" duration="200000" />
+      <workItem from="1548566903807" duration="6722000" />
+      <workItem from="1548759939652" duration="6758000" />
+      <workItem from="1548848075669" duration="2874000" />
+      <workItem from="1549107954756" duration="4542000" />
+      <workItem from="1549277200899" duration="1722000" />
+      <workItem from="1549279198801" duration="5511000" />
+      <workItem from="1549454435739" duration="36000" />
+      <workItem from="1549455095590" duration="13000" />
+      <workItem from="1549456373201" duration="334000" />
+      <workItem from="1549456898919" duration="567000" />
+      <workItem from="1549457707106" duration="754000" />
+      <workItem from="1549458885201" duration="276000" />
+      <workItem from="1549459586849" duration="103000" />
+      <workItem from="1549460677900" duration="600000" />
+      <workItem from="1549462725141" duration="5386000" />
+      <workItem from="1549778866482" duration="2061000" />
+      <workItem from="1549800553374" duration="147000" />
+      <workItem from="1549970723086" duration="9352000" />
+      <workItem from="1550058440513" duration="5193000" />
+      <workItem from="1550065275284" duration="2801000" />
+      <workItem from="1550068138397" duration="779000" />
+      <workItem from="1550126516990" duration="595000" />
+      <workItem from="1550299375362" duration="683000" />
+      <workItem from="1550409095838" duration="597000" />
+      <workItem from="1550492437636" duration="5950000" />
+      <workItem from="1550586811578" duration="7248000" />
+      <workItem from="1563190045875" duration="456000" />
+      <workItem from="1563190550704" duration="1651000" />
+      <workItem from="1563208743134" duration="2391000" />
+      <workItem from="1563211650885" duration="445000" />
+      <workItem from="1563212130752" duration="1866000" />
+      <workItem from="1563215610972" duration="1212000" />
+      <workItem from="1563351252846" duration="46000" />
+      <workItem from="1575975844880" duration="989000" />
+    </task>
+    <task id="LOCAL-00001" summary="an empty line is removed from the rules file">
+      <created>1549463522298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549463522298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="renamed plugin id">
+      <created>1549464901181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549464901181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23959732" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CU2PT" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="TestsParameterization" order="12" />
+      <window_info anchor="bottom" id="TestsParametrization" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21543624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CU2PT" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="TestsParameterization" order="12" />
+      <window_info anchor="bottom" id="TestsParametrization" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="an empty line is removed from the rules file" />
+    <MESSAGE value="renamed plugin id" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed plugin id" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="300" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575976188962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="300" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1575976188962" />
+    <state x="349" y="66" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1575976184879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="66" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.824@0.0.1536.824" timestamp="1575976184879" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580400249961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580400249961" />
+    <state x="550" y="166" key="FileChooserDialogImpl" timestamp="1575976178627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575976178627" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1580402753393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580402753393" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1580400228333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580400228333" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1580402722278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580402722278" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/CodeClone3.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="638" column="18" selection-start-line="638" selection-start-column="18" selection-end-line="638" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/MyTest.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/psi/tree/TokenSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/util.jar!/com/intellij/openapi/util/UserDataHolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-impl.jar!/org/jetbrains/uast/java/JavaUMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/com/intellij/psi/impl/source/tree/CompositeElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/com/intellij/psi/impl/source/tree/LeafElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/psi/tree/IElementType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-impl.jar!/com/intellij/psi/impl/PsiElementFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/psi/PsiElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="164" column="26" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/lang/ASTNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/psi/PsiDocumentManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/ui/ConvertToRDFAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaAssertArgumentTypeVisitor.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiTypeElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiAnnotationMemberValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiExpression.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiCallExpression.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiMethodCallExpression.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="70" lean-forward="true" selection-start-line="6" selection-start-column="70" selection-end-line="6" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaTypeVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaCodeCloneVisitor.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-api.jar!/com/intellij/openapi/vfs/VirtualFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/PsiJavaFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaTryCatchVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaStatementVisitor.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/LineNumberReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="107" column="15" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/JavaConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaArrayInitializerExpressionVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaArrayInitializerVisitor.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/JavaRecursiveElementVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="79" lean-forward="true" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/java-api.jar!/com/intellij/psi/JavaElementVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaFieldVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaSpecificStatementVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/VisitorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNewExpressionVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNamingMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="110" column="80" selection-start-line="110" selection-start-column="80" selection-end-line="110" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaExpressionsVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="48" column="73" lean-forward="true" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaNewVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaCodeCloneDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaClassVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodCallVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="62" column="87" selection-start-line="62" selection-start-column="87" selection-end-line="62" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaMethodStatementVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="74" column="87" selection-start-line="74" selection-start-column="87" selection-end-line="74" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ir/ac/um/CU2PT/visitor/JavaFileVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="174" column="69" selection-start-line="174" selection-start-column="69" selection-end-line="174" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IntelliJ IDEA Community Edition IC-183.6156.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CU2PT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

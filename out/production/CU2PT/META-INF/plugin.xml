@@ -1,0 +1,45 @@
+<idea-plugin>
+    <id>ir.ac.um.CU2PT</id>
+    <name>TestsParameterization</name>
+    <version>1.0</version>
+    <vendor email="aidin.noori@um.ac.ir" url="http://aidin.noori.student.um.ac.ir/">Aidin Noori's
+        Homepage
+    </vendor>
+
+    <description><![CDATA[
+      A plugin for IntelliJ IDEA that extracts code clones from test suites and represents them in a parameterized form.<br>
+    ]]></description>
+
+    <change-notes>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="141.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <toolWindow id="TestsParameterization"
+                    anchor="bottom"
+                    icon="/images/icon.png"
+                    factoryClass="ir.ac.um.CU2PT.ui.JavaConverterToolWindowFactory"></toolWindow>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="ir.ac.um.CU2PT.ui.ConvertToRDFAction" class="ir.ac.um.CU2PT.ui.ConvertToRDFAction"
+                text="Convert to Parametric"
+                description="Extract Code Clones information and represents it in Theory and DataPoints">
+            <add-to-group group-id="AnalyzeMenu" anchor="first"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift D"/>
+        </action>
+    </actions>
+
+</idea-plugin>
