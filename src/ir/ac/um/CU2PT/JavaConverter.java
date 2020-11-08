@@ -34,7 +34,7 @@ public class JavaConverter implements Runnable {
             e.printStackTrace();
         }
         long finish = System.currentTimeMillis();
-        Utils.showMessage(String.format("Conversion phase finished. (total time: %s)%n", getFriendlyTime(finish - start)));
+        Utils.showMessage("Conversion phase finished.");
     }
 
     private void process(PsiJavaFile psiJavaFile) {
