@@ -106,7 +106,7 @@ public class JavaClassVisitor extends JavaRecursiveElementVisitor {
         ApplicationManager.getApplication().invokeLater(() -> WriteCommandAction.runWriteCommandAction(aClass.getProject(), () -> {
 
 
-            String path = aClass.getProject().getBasePath() + "\\tests\\CodeClones\\" + aClass.getContainingFile().getOriginalFile().getName();
+            String path = aClass.getProject().getBasePath() + "\\tests\\TestClones\\" + aClass.getContainingFile().getOriginalFile().getName();
 
             try {
                 File file = new File(path);
