@@ -402,7 +402,7 @@ public class JavaFileVisitor extends JavaRecursiveElementVisitor {
 
                             if (flagMethodStmtEqual && isExpressionsEqual) {
                                 numberOfMethodClones++;
-                                File ccDirectory = new File(ccNewPath + "CodeClones");
+                                File ccDirectory = new File(ccNewPath + "TestClones");
                                 if (!ccDirectory.exists()) {
                                     ccDirectory.mkdir();
                                 }
@@ -623,7 +623,7 @@ public class JavaFileVisitor extends JavaRecursiveElementVisitor {
             }
             File[] dirs = checkDirectory.listFiles();
             for (File dir : dirs) {
-                if (!(dir.getName().startsWith("Reg") && dir.getName().contains("CodeClones"))) {
+                if (!(dir.getName().startsWith("Reg") && dir.getName().contains("TestClones"))) {
                     continue;
                 } else {
                     File[] files = dir.listFiles();
@@ -656,7 +656,7 @@ public class JavaFileVisitor extends JavaRecursiveElementVisitor {
 //                Utils.showMessage("Size: " + directs.getSubdirectories().length);
 //                for (PsiDirectory psiDirs : directs.getSubdirectories()) {
 //                Utils.showMessage("psiDirs: " + psiDirs.getName());
-//                if (psiDirs.getName().startsWith("Reg") && psiDirs.getName().contains("CodeClones")) {
+//                if (psiDirs.getName().startsWith("Reg") && psiDirs.getName().contains("TestClones")) {
 //                Utils.showMessage("== " + psiDirs.getName());
 //                for (PsiFile files : psiDirs.getFiles()) {
 //                Utils.showMessage("File: " + files.getName());
